@@ -3,7 +3,7 @@ import os
 
 
 def generate_homepage(group_names, output_file):
-    title = "One-liner quotations by Kripalu Maharaj"
+    title = "One-liner quotes by Kripalu Maharaj"
     html_template = """
 <!DOCTYPE html>
 <html lang="en">
