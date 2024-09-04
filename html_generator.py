@@ -10,6 +10,25 @@ def generate_homepage(group_names, output_file):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A collection of inspiring quotes from the lectures of Jagadguru Shri Kripalu Ji Maharaj, filled with spiritual guidance and profound wisdom.">
+    <meta name="keywords" content="Jagadguru, Shri Kripalu Ji Maharaj, Lecture Quotes, Spiritual Guidance, Wisdom">
+    <meta name="author" content="kishoriji">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Kripalu Maharaj: Lecture Quotes">
+    <meta property="og:description" content="Explore inspiring quotes from the lectures of Jagadguru Shri Kripalu Ji Maharaj, filled with spiritual guidance and wisdom.">
+    <meta property="og:image" content="thumb_cover_3.jpg">
+    <meta property="og:url" content="https://kishoriji.github.io/kripalu_maharaj_lecture_quotes/">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Kripalu Maharaj: Lecture Quotes">
+    <meta name="twitter:description" content="Explore inspiring quotes from the lectures of Jagadguru Shri Kripalu Ji Maharaj, filled with spiritual guidance and wisdom.">
+    <meta name="twitter:image" content="thumb_cover_3.jpg">
+
     <title>{title}</title>
     <style>
         body {{
